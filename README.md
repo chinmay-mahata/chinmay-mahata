@@ -1,13 +1,13 @@
 ![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/4684723-Ron-Jeffries-Quote-Code-never-lies-comments-sometimes-do.jpg)
-<h1 align="center">Hi 👋, I'm Chinmay</h1>
-<h3 align="center">I am a passionate python programmer from India</h3>
+<h1 align="center">Hello 👋, I'm Chinmay</h1>
+<h3 align="center">I am a passionate Java programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmay-mahata&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay-mahata" /> </p>
 
-- 🔭 I’m currently in **3rd year of B.Tech in CSE'25**
+- 🔭 I’m currently in **4th year of B.Tech in CSE'25**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 👨‍💻 I want to learn more about **OpenSource and contribute to it**
 
