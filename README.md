@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👨‍💻 I want to learn more about **OpenSource and contribute to it**
-
 - 📫 How to reach me **chinmaymahata05@gmail.com**
 
 - ⚡ Fun fact **Code never lies, comments sometimes do**
